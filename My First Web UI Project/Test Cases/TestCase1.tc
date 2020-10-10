@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08623e7b-5a30-4eb8-8953-73cf4d71248d</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>ac91174f-9a51-4210-8eb5-380e72ac8db7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassWord'</defaultValue>
+      <description></description>
+      <id>dae495a1-04cf-4d50-b8cb-42c887877d61</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
